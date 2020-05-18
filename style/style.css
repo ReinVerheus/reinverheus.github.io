@@ -9,7 +9,7 @@ header h1 {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
     color: black;
-    text-align: center;
+    text-align: left;
 }
 
 body {
@@ -80,4 +80,10 @@ ul {
     font-weight: normal;
     font-size: 90%;
     font-family: Arial, Helvetica, sans-serif;
+  }
+
+  header img {
+    position: absolute;
+    top: 70px;
+    right: 300px;
   }
